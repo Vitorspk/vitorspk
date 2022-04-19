@@ -13,6 +13,7 @@
 [<img align="center" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" style="max-width:100%;">](https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html)
 [<img align="center" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" style="max-width:100%;">](https://www.python.org)
 [<img align="center" src="https://img.shields.io/badge/-VueJs-4FC08D?logo=vue.js&logoColor=white&style=flat" style="max-width:100%;">](https://vuejs.org)
+[<img align="center" src="https://img.shields.io/badge/-go-4FC08D?logo=go&logoColor=white&style=flat" style="max-width:100%;">](https://go.dev)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorschiavo)](https://www.linkedin.com/in/vitorschiavo)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:vitorspk@gmail.com)
