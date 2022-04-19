@@ -1,5 +1,8 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=vitorspk&layout=compact&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api//top-langs?username=vitorspk&show_icons=truea&layout=compact&theme=dark)
+<div align="center">
+    <a href="https://github.com/vitorspk">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorspk&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorspk&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
 
 ### Some languages and technologies that I'm learning and like
 
