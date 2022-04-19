@@ -5,3 +5,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorschiavo)](https://www.linkedin.com/in/vitorschiavo)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:vitorspk@gmail.com)
+
+
+![Snake animation](https://github.com/vitorspk/vitorspk/blob/output/github-contribution-grid-snake.svg)
